@@ -32,10 +32,10 @@ wait_count = 0
 idel_count = 0
 
 # if user want to give value; {answer should be 'n' or 'no'}
-# ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎
+
 # # -------- inter arrival time user choose ------
 # # -------- service Time user choose ------
-# ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎
+
 
 if optn[0] == 'n':
     # -------- inter arrival Time 'User Choosen' input ------
@@ -54,10 +54,10 @@ if optn[0] == 'n':
 
 
 # for poisson distribution and exponential distribution; {answer should be 'y' or 'yes'}
-# ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎
+
 # # -------- inter arrival Time 'Poisson Distribution' random choose ------
 # # -------- service Time 'Exponential Distribution' random choose ------
-# ✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎✎
+
 # # μ = 5.6 customer/min (for n-1 customer) {None of customer Inter Arrives Times; when n = 0},
 # # and  λ = 1 customer/min (for n customer)
 
