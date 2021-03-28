@@ -31,11 +31,6 @@ total_spendTime = 0
 wait_count = 0
 idel_count = 0
 
-# if user want to give value; {answer should be 'n' or 'no'}
-
-# # -------- inter arrival time user choose ------
-# # -------- service Time user choose ------
-
 
 if optn[0] == 'n':
     # -------- inter arrival Time 'User Choosen' input ------
@@ -54,10 +49,6 @@ if optn[0] == 'n':
 
 
 # for poisson distribution and exponential distribution; {answer should be 'y' or 'yes'}
-
-# # -------- inter arrival Time 'Poisson Distribution' random choose ------
-# # -------- service Time 'Exponential Distribution' random choose ------
-
 # # μ = 5.6 customer/min (for n-1 customer) {None of customer Inter Arrives Times; when n = 0},
 # # and  λ = 1 customer/min (for n customer)
 
@@ -138,10 +129,9 @@ for i in range(n):
     total_idleTime = float(total_idleTime) + float(idleTime[i])
 
 print(red+"                              S I N G L E    S E R V E R    Q U E U E    P R O B"+reset_color)
-print("▔✎▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔✙▔")
 print("   ║ Cust. | Inter Arrival | Arrival | Service | Service T. | Waiting T. | Service T. | C. Spend T. | Server   ║")
 print("   ║  No.  |  Time         |  Time   |  Time   |   Begin    |  in Queue  |   End      |  in System  | Idle T.  ║")
-print("▂✙▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂✎▂")
+
 
 for i in range(n):
     if i == 0:
@@ -154,7 +144,7 @@ for i in range(n):
             % (i + 1, intArrivalTime[i], arrivalTime[i], serviceTime[i], SBT[i], waitingTime[i], SET[i],
                customerSpendInSystem[i], idleTime[i]))
 
-print(" ▔💯▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔  ▔▔▔▔▔   ▔▔▔▔▔▔▔▔▔▔▔  ▔▔▔▔▔▔▔▔▔▔▔▔▔  ▔▔▔▔▔   ▔▔💯▔")
+
 print(" \t\t\t\t\t\t\t  =%4i    =%.5f   \t\t\t\t=%3.2f \t\t\t\t\t  =%4.2f     \t=%3.3f "% (total_arrivalTime, total_serviceTime, total_waitingTime, total_spendTime, total_idleTime))
 
 
