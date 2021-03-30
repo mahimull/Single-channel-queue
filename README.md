@@ -17,7 +17,7 @@ Now, simulate this bank problem having µ=5.6 customers/minute (arrival rate) an
 
 
 #GROUP_07:
-Mohimul Hoque,                                                                                                                                                               Kutub Uddin Radin,
+Mohimul Hoque,                                                                                                                                                                   Kutub Uddin Radin,
 Shafiqul Islam,
 Suva Deb Showrv,
 Trisha Dhar,
