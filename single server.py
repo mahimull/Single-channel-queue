@@ -1,4 +1,4 @@
-from scipy.stats import *
+from scipy.stats import
 from colored import fg, attr
 green = fg('green')
 red = fg('red')
@@ -47,14 +47,8 @@ if optn[0] == 'n':
         serviceTime.append(int(input("Service Time for Customer %i: " % (i + 1))))
         total_serviceTime = total_serviceTime + serviceTime[i]
 
-
-# for poisson distribution and exponential distribution; {answer should be 'y' or 'yes'}
-# # μ = 5.6 customer/min (for n-1 customer) {None of customer Inter Arrives Times; when n = 0},
-# # and  λ = 1 customer/min (for n customer)
-
-
 if optn[0] == 'y':
-    print(":: (⭐) R  a  n  d  o  m  (⭐) ::\n\t  Distribution (✎) "+yellow+"\n\n[+] P O I S O N ✎"+reset_color)
+    print(":: R  a  n  d  o  m  ::\n\t  Distribution "+yellow+"\n\n[+] P O I S O N "+reset_color)
     intArrivalTime.append(0)
     data_poisson = str(poisson.rvs(mu=5.6, size=(n - 1)))  # μ = 5.6 customer/min (for n-1 customer) when n = 0, None of customer Inter Arrives Times
     for i in range(data_poisson.__len__()):
