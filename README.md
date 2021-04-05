@@ -19,14 +19,14 @@ Now we extend towards the case of a single channel queuing system considering a 
 Now, simulate this bank problem having µ=5.6 customers/minute (arrival rate) and λ=5 customers/minute (service rate) for 20 customers. You should use exactly 19 to 20 random variates for generating the random variables(two). You don’t need to consider after precision values of decimal point for service times during simulation for the convenience. You can use any subroutine, object, or any built-in function of any relevant programming language. The average number of customer waiting, the average waiting time of a customer should be your statistical estimators for examining the true characteristics of the system.
 
 
-
-##GROUP_07
-Mohimul Hoque,
-Kutub Uddin Radin,
-Shafiqul Islam,
-Suva Dev Showrv,
-Trisha Dhar,
-Salma Akter.
+**Single Channel Queue Team
+**GROUP_07
+   *Mohimul Hoque,
+   *Kutub Uddin Radin,
+   *Shafiqul Islam,
+   *Suva Dev Showrv,
+   *Trisha Dhar,
+   *Salma Akter.
 
 
 
