@@ -2,6 +2,13 @@
 
 # Simulation & Modeling Sessional
 
+# Group 7
+   *Mohimul Hoque,
+   *Kutub Uddin Radin,
+   *Shafiqul Islam,
+   *Suva Dev Showrv,
+   *Trisha Dhar,
+   *Salma Akter.
 
 
 
