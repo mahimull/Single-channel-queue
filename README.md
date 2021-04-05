@@ -17,6 +17,14 @@ Mr. Muhtadir Rahman
 Lecturer, Department of CSE
 
 Port City International University
+
+# Single-Channel-Queue-System
+# What is Discrete Variable?
+
+Discrete variables are countable in a finite amount of time. For example, we can count the change in our pocket. we can count the money in your bank account. we could also count the amount of money in everyone’s bank accounts. It might take us a long time to count that last item, but it’s still countable.
+
+![image](https://user-images.githubusercontent.com/41919560/113599884-11d38100-9661-11eb-9f97-3b355e69de0b.png)
+
    
 
 
@@ -42,14 +50,6 @@ Now we extend towards the case of a single channel queuing system considering a 
 Now, simulate this bank problem having µ=5.6 customers/minute (arrival rate) and λ=5 customers/minute (service rate) for 20 customers. You should use exactly 19 to 20 random variates for generating the random variables(two). You don’t need to consider after precision values of decimal point for service times during simulation for the convenience. You can use any subroutine, object, or any built-in function of any relevant programming language. The average number of customer waiting, the average waiting time of a customer should be your statistical estimators for examining the true characteristics of the system.
 
 
-# Single Channel Queue Team
-**GROUP_07
-   *Mohimul Hoque,
-   *Kutub Uddin Radin,
-   *Shafiqul Islam,
-   *Suva Dev Showrv,
-   *Trisha Dhar,
-   *Salma Akter.
 
 
 
@@ -57,4 +57,5 @@ Now, simulate this bank problem having µ=5.6 customers/minute (arrival rate) an
 
 
 
-#[ Note: here I used 'POISSON DISTRIBUTION' for Inter Arrival Time generation & I used 'EXPONENTIAL DISTRIBUTION' for service time generation]
+
+# [ Note: here I used 'POISSON DISTRIBUTION' for Inter Arrival Time generation & I used 'EXPONENTIAL DISTRIBUTION' for service time generation]
