@@ -25,7 +25,9 @@ Discrete variables are countable in a finite amount of time. For example, we can
 
 ![image](https://user-images.githubusercontent.com/41919560/113599884-11d38100-9661-11eb-9f97-3b355e69de0b.png)
 
-   
+ # What is Continuous Variable?
+ 
+Continuous variables can take on an unlimited number of values between the lowest and highest points of measurement. Continuous variables include such things as speed and distance.
 
 
 
@@ -33,8 +35,6 @@ Discrete variables are countable in a finite amount of time. For example, we can
 
 
 
-
-# Single-Channel-Queue-Python:
 
 #Background:
 Random numbers are very important in discrete event simulation for generating event times. A chain of random numbers must hold two major properties-1) Uniformity 2) Independence. A stochastic simulation model requires one or more random variable as inputs. The random numbers can be generated from a random variable say X. P(X=x) is greater than zero and ranges between zero and one when the total number of possible outcomes is finite. In such a case, the random variable X is said to be discrete. P(X=x) is exactly zero when the total number of possible outcomes is infinite. In such a case, the random variable X is said to be continuous. So, in our study, we have now found two terms- Discrete Random Numbers and Continuous Random Numbers. There are many techniques to generate random numbers such as- Linear Congruential Method, Combined Linear Congruential Method etc. These generators can also be used to generate “seed” of a Random-Number streams since, generators tend to have repeats to a certain extent. But, in practice, a simulation analyst might not deal with random number generators or streams directly because of their insufficiency in usability, though they pass two important tests-1) Frequency Test and 2) Autocorrelation Test. Still some underlying patterns that might be taken into considerations. Once we have accepted a good random number generator that passes those two tests to assure its two attributes that is U[0,1)
