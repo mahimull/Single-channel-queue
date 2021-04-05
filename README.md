@@ -3,12 +3,12 @@
 # Simulation & Modeling Sessional
 
 # Group_07
-   # Mohimul Hoque(CSE-01205958) [Team Leader]
-   # Kutub Uddin Radin(CSE-01306153)
-   # Shafiqul Islam(CSE-01206037)
-   # Suva Dev Showrv(CSE-01205974)
-   # Trisha Dhar(CSE-01205991)
-   # Salma Akter
+    Mohimul Hoque(CSE-01205958) [Team Leader]
+    Kutub Uddin Radin(CSE-01306153)
+    Shafiqul Islam(CSE-01206037)
+    Suva Dev Showrv(CSE-01205974)
+    Trisha Dhar(CSE-01205991)
+    Salma Akter
    
 # Course Instructor: 
 
