@@ -12,7 +12,7 @@
    
 # Course Instructor: 
 
-*Mr. Muhtadir Rahman
+Mr. Muhtadir Rahman
 
 Lecturer, Department of CSE
 
