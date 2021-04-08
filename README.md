@@ -51,6 +51,8 @@ The exponential distribution is often concerned with the amount of time until so
 
 Exponential Distribution deals with the time between occurrences of successive events as we know time flows continuously and in this project the starting and the ending of service can be considered as two successive events.
 
+# QUICK LINK:
+
 
 
 # [ Note: here I used 'POISSON DISTRIBUTION' for Inter Arrival Time generation & I used 'EXPONENTIAL DISTRIBUTION' for service time generation]
