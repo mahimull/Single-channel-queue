@@ -8,7 +8,7 @@
    3. Shafiqul Islam(CSE-01206037)
    4. Suva Dev Showrv(CSE-01205974)
    5. Trisha Dhar(CSE-01205991)
-   6. Salma Akter
+   6. Salma Akter(CSE-01206041)
    
 # Course Instructor: 
 
