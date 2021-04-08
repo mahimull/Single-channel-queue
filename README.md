@@ -60,4 +60,4 @@ https://www.researchgate.net/publication/255684386_Stationary_characteristics_of
 
 
 
-*#[ Note: here I used 'POISSON DISTRIBUTION' for Inter Arrival Time generation & I used 'EXPONENTIAL DISTRIBUTION' for service time generation]
+## [ Note: here I used 'POISSON DISTRIBUTION' for Inter Arrival Time generation & I used 'EXPONENTIAL DISTRIBUTION' for service time generation]
