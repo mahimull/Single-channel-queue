@@ -21,14 +21,15 @@ Port City International University
 
 Discrete variables are countable in a finite amount of time. For example, we can count the change in our pocket. we can count the money in your bank account. we could also count the amount of money in everyone’s bank accounts. It might take us a long time to count that last item, but it’s still countable.
 
-## ![image](https://user-images.githubusercontent.com/41919560/114293331-0811a980-9ab7-11eb-9c90-9c0e812a05e2.png)
+ ![image](https://user-images.githubusercontent.com/41919560/114293331-0811a980-9ab7-11eb-9c90-9c0e812a05e2.png)
 
 
  # What is Continuous Variable?
  
 Continuous variables can take on an unlimited number of values between the lowest and highest points of measurement. Continuous variables include such things as speed and distance.
 
-![image](https://user-images.githubusercontent.com/41919560/114313395-278cee80-9b18-11eb-9f05-db01f7987dd0.png)
+![image](https://user-images.githubusercontent.com/41919560/114313496-923e2a00-9b18-11eb-8288-a48fc566ca0e.png)
+
 
 
 # What is Probability Distribution?
