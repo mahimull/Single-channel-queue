@@ -33,8 +33,6 @@ total_spendTime = 0
 wait_count = 0
 idel_count = 0
 
-
-if optn[0] == 'n':
     # -------- inter arrival Time 'User Choosen' input ------
     for i in range(n):
         if i == 0:
