@@ -21,7 +21,7 @@ Port City International University
 
 Discrete variables are countable in a finite amount of time. For example, we can count the change in our pocket. we can count the money in your bank account. we could also count the amount of money in everyone’s bank accounts. It might take us a long time to count that last item, but it’s still countable.
 
-![image](https://user-images.githubusercontent.com/41919560/114293331-0811a980-9ab7-11eb-9c90-9c0e812a05e2.png)
+## ![image](https://user-images.githubusercontent.com/41919560/114293331-0811a980-9ab7-11eb-9c90-9c0e812a05e2.png)
 
 
  # What is Continuous Variable?
