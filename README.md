@@ -39,7 +39,14 @@ A probability distribution is a function that describes the likelihood of obtain
 
 
 # What is a Single Channel Queuing System?
-A single-channel service system consisting of a service facility and queue, in which the possible times of arrival of units and the possible service times are discrete, is analyzed. A method of calculating the moments of the total service time of units in the system is developed. This total service time is related to the delay caused by the system. When arrivals at different times are assumed to be independent, the “values” of the resulting Markov process can be calculated. These values lead to information about the transient behavior, autocorrelation function, expected first passage time, and expected extra delay that arises if another unit is inserted into the system. An expression for the geometric transform or moment generating function of the probability distribution of the total service time of units in the system is determined. The results are derived for arbitrary arrival and service time distributions.
+A single-channel service system consisting of a service facility and queue, in which the possible times of arrival of units and the possible service times are discrete, is analyzed. A method of calculating the moments of the total service time of units in the system is developed. This total service time is related to the delay caused by the system. When arrivals at different times are assumed to be independent, the “values” of the resulting Markov process can be calculated. 
+
+
+These values lead to information about the transient behavior, autocorrelation function, expected first passage time, and expected extra delay that arises if another unit is inserted into the system. An expression for the geometric transform or moment generating function of the probability distribution of the total service time of units in the system is determined. The results are derived for arbitrary arrival and service time distributions.
+
+![image](https://user-images.githubusercontent.com/41919560/114314087-11ccf880-9b1b-11eb-98ca-4bd07c13e0e5.png)
+
+
 
 # Brief Introduction to Poisson Distribution and why it used:-
 A Poisson distribution is a tool that helps to predict the probability of certain events from happening when you know how often the event has occurred. It gives us the probability of a given number of events happening in a fixed interval of time.
