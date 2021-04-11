@@ -49,8 +49,6 @@ if optn[0] == 'n':
         serviceTime.append(int(input("Service Time for Customer %i: " % (i + 1))))
         total_serviceTime = total_serviceTime + serviceTime[i]
 
-if optn[0] == 'y':
-    print(":: R  a  n  d  o  m  ::\n\t  Distribution "+yellow+"\n\n[+] P O I S O N "+reset_color)
     intArrivalTime.append(0)
     data_poisson = str(poisson.rvs(mu=5.6, size=(n - 1)))  # μ = 5.6 customer/min (for n-1 customer) when n = 0, None of customer Inter Arrives Times
     for i in range(data_poisson.__len__()):
