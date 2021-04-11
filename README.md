@@ -35,7 +35,8 @@ Continuous variables can take on an unlimited number of values between the lowes
 ## What is Probability Distribution?
 A probability distribution is a function that describes the likelihood of obtaining the possible values that a random variable can assume. In other words, the values of the variable vary based on the underlying probability distribution. Poisson Distribution and Exponential Distribution are among the other types of probability distribuiton.
 
-![image](https://user-images.githubusercontent.com/41919560/114313942-7a67a580-9b1a-11eb-829f-cfd67905a498.png)
+![image](https://user-images.githubusercontent.com/41919560/114314375-307fbf00-9b1c-11eb-9734-b3ce3e57c73d.png)
+
 
 
 ## What is a Single Channel Queuing System?
