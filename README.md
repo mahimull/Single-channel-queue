@@ -44,7 +44,8 @@ A single-channel service system consisting of a service facility and queue, in w
 
 These values lead to information about the transient behavior, autocorrelation function, expected first passage time, and expected extra delay that arises if another unit is inserted into the system. An expression for the geometric transform or moment generating function of the probability distribution of the total service time of units in the system is determined. The results are derived for arbitrary arrival and service time distributions.
 
-![image](https://user-images.githubusercontent.com/41919560/114314087-11ccf880-9b1b-11eb-98ca-4bd07c13e0e5.png)
+
+![image](https://user-images.githubusercontent.com/41919560/114314302-e565ac00-9b1b-11eb-9d17-d283168ef049.png)
 
 
 
