@@ -1,5 +1,3 @@
-# Single Channel Queuing System (Assignment 6)
-
 # Simulation & Modeling Sessional
 
 # Group_07
