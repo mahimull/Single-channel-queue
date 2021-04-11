@@ -28,6 +28,9 @@ Discrete variables are countable in a finite amount of time. For example, we can
  
 Continuous variables can take on an unlimited number of values between the lowest and highest points of measurement. Continuous variables include such things as speed and distance.
 
+![image](https://user-images.githubusercontent.com/41919560/114313395-278cee80-9b18-11eb-9f05-db01f7987dd0.png)
+
+
 # What is Probability Distribution?
 A probability distribution is a function that describes the likelihood of obtaining the possible values that a random variable can assume. In other words, the values of the variable vary based on the underlying probability distribution. Poisson Distribution and Exponential Distribution are among the other types of probability distribuiton.
 
