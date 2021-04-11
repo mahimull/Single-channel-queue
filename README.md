@@ -35,6 +35,9 @@ Continuous variables can take on an unlimited number of values between the lowes
 # What is Probability Distribution?
 A probability distribution is a function that describes the likelihood of obtaining the possible values that a random variable can assume. In other words, the values of the variable vary based on the underlying probability distribution. Poisson Distribution and Exponential Distribution are among the other types of probability distribuiton.
 
+![image](https://user-images.githubusercontent.com/41919560/114313942-7a67a580-9b1a-11eb-829f-cfd67905a498.png)
+
+
 # What is a Single Channel Queuing System?
 A single-channel service system consisting of a service facility and queue, in which the possible times of arrival of units and the possible service times are discrete, is analyzed. A method of calculating the moments of the total service time of units in the system is developed. This total service time is related to the delay caused by the system. When arrivals at different times are assumed to be independent, the “values” of the resulting Markov process can be calculated. These values lead to information about the transient behavior, autocorrelation function, expected first passage time, and expected extra delay that arises if another unit is inserted into the system. An expression for the geometric transform or moment generating function of the probability distribution of the total service time of units in the system is determined. The results are derived for arbitrary arrival and service time distributions.
 
