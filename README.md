@@ -64,7 +64,13 @@ The exponential distribution is often concerned with the amount of time until so
 
 Exponential Distribution deals with the time between occurrences of successive events as we know time flows continuously and in this project the starting and the ending of service can be considered as two successive events.
 
-# QUICK LINK:
+
+![image](https://user-images.githubusercontent.com/41919560/114314154-56589400-9b1b-11eb-849c-3e88867a385b.png)
+
+
+
+
+## QUICK LINK:
 https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/discrete-vs-continuous-variables/
 https://www.sciencedirect.com/topics/computer-science/continuous-variable
 https://www.investopedia.com/terms/p/probabilitydistribution.asp
