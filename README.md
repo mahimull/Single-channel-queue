@@ -16,7 +16,7 @@ Lecturer, Department of CSE
 
 Port City International University
 
-# Single-Channel-Queue-System
+# Single-Channel-Queue-System:
 # What is Discrete Variable?
 
 Discrete variables are countable in a finite amount of time. For example, we can count the change in our pocket. we can count the money in your bank account. we could also count the amount of money in everyone’s bank accounts. It might take us a long time to count that last item, but it’s still countable.
