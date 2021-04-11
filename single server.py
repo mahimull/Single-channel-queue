@@ -122,7 +122,6 @@ for i in range(n):
     total_spendTime = float(total_spendTime) + float(customerSpendInSystem[i])
     total_idleTime = float(total_idleTime) + float(idleTime[i])
 
-print(red+"                              S I N G L E    S E R V E R    Q U E U E    P R O B"+reset_color)
 print("   ║ Cust. | Inter Arrival | Arrival | Service | Service T. | Waiting T. | Service T. | C. Spend T. | Server   ║")
 print("   ║  No.  |  Time         |  Time   |  Time   |   Begin    |  in Queue  |   End      |  in System  | Idle T.  ║")
 
